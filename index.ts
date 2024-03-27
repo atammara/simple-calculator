@@ -22,3 +22,5 @@ else if (answer.operater === "DIVISION") {
     console.log(answer.firstNumber / answer.secondNumber);
 }
 else { "please select correct operater" }
+
+console.log('THE END')
